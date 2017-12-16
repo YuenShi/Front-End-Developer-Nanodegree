@@ -1,0 +1,38 @@
+/* add your CSS here */
+.boarder {
+	border: 1px solid #8c8c8c;
+	margin: 10px;
+	width: 500px;
+}
+
+.content-boarder {
+	border: 1px solid #8c8c8c;
+	margin: 10px;
+	width: 480px;
+}
+
+#headline {
+	padding-left: 10px;
+}
+
+#animal-picture {
+	padding: 10px;
+
+}
+
+.interesting-fact {
+	font-style: italic;
+	padding-left: 10px;
+}
+
+.item {
+	list-style-type: none;
+}
+
+.item-label {
+	font-weight: bold;
+}
+
+#description {
+	padding-left: 10px;
+}

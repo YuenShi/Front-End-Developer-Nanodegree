@@ -1,0 +1,9 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  I learned how to use tags and write my first html. Awesome! I also learned how to use document to help me write code. That’s really helpful!
+  * What has been easy?
+  The usage of some tags like h1~h6, em, strong and so on has already been taught in the course. So it is easy for me to use these tags.
+  * What has been difficult?
+  It’s difficult to find new elements to make the web looks exactly like the mockup.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  I used google to find the solution. That’s a very helpful and convenient way to get the answer. All problems were solved finally!
